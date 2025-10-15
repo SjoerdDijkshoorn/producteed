@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
  <root>
-     <items>
+     <products>
          <productId>1527897</productId>
          <name>Birthday Sheet Cake</name>
          <productType>AddOn</productType>
@@ -9,5 +9,5 @@
          <productStatus>Published</productStatus>
          <hqProductId>877408</hqProductId>
          <parLevel>0</parLevel>
-     </items>
+     </products>
  </root>
