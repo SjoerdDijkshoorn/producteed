@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
  <root>
+     <currentPage>1</currentPage>
+     <totalPages>5</totalPages>
+     <totalItems>419</totalItems>
+     <itemsPerPage>100</itemsPerPage>
      <items>
          <productId>1527897</productId>
          <name>Birthday Sheet Cake</name>
